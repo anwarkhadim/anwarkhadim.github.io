@@ -1,0 +1,32 @@
+body 
+{ 
+	font-family: 'Lato', sans-serif;
+	font-size : 40px;
+	text-align : center;
+	font-weight :lighter;
+	background-color : #f3f3f3;
+	color : black;
+}
+
+li
+{
+    list-style-type: none;
+	display: inline;
+	margin : 2%;
+}
+
+
+h1
+{
+	margin: 0;
+	font-weight :lighter;
+}
+
+.content {
+	left: 0;
+	margin-top: -100px;
+	position: absolute;
+	text-align: center;
+	top: 50%;
+	width: 100%;
+}
